@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\week13-2\week13-2\obj\Debug\week13_2.Form1.resources
+C:\Users\PC\source\repos\week13-2\week13-2\obj\Debug\week13_2.Properties.Resources.resources
+C:\Users\PC\source\repos\week13-2\week13-2\obj\Debug\week13-2.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\week13-2\week13-2\obj\Debug\week13-2.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\week13-2\week13-2\bin\Debug\iconfinder_t-mobile_4691424.png
+C:\Users\PC\source\repos\week13-2\week13-2\bin\Debug\week13-2.exe.config
+C:\Users\PC\source\repos\week13-2\week13-2\bin\Debug\week13-2.exe
+C:\Users\PC\source\repos\week13-2\week13-2\bin\Debug\week13-2.pdb
+C:\Users\PC\source\repos\week13-2\week13-2\obj\Debug\week13-2.exe
+C:\Users\PC\source\repos\week13-2\week13-2\obj\Debug\week13-2.pdb
+C:\Users\PC\source\repos\week13-2\week13-2\obj\Debug\week13-2.csproj.AssemblyReference.cache
